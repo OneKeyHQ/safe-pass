@@ -1,10 +1,17 @@
 {
   "version": 1,
   "whitelist": [
+    "coinbase.com",
+    "trezor.io",
+    "ledger.com",
     "onekey.so",
     "token.im",
     "tokenpocket.pro",
-    "bitpie.com"
+    "bitpie.com",
+    "binance.com",
+    "huobi.com",
+    "okex.com",
+    "bitfinex.com"
   ],
   "blacklist": [
     "eleven.finance",
