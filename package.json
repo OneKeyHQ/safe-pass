@@ -1,0 +1,7 @@
+{
+    "name": "@onekeyfe/safe_pass",
+    "version": "1.0.0",
+    "description": "DeFi white-list and black-list",
+    "main": "list.json",
+    "license": "MIT"
+}
