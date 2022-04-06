@@ -1,5 +1,5 @@
 {
-    "name": "@onekeyfe/safe_pass",
+    "name": "@onekeyfe/safe-pass",
     "version": "1.0.0",
     "description": "DeFi white-list and black-list",
     "main": "list.json",
